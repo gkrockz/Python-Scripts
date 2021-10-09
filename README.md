@@ -12,7 +12,10 @@
 
 **4. URL Shortner   :** [Repo][repo4]
 
+**5. Automation Scripts:** [Repo][repo5]
+
 [repo1]: https://github.com/gkrockz/Digit-Recognition
 [repo2]: https://github.com/gkrockz/Python-Scripts/tree/main/Password-Generator
 [repo3]: https://github.com/gkrockz/Python-Scripts/tree/main/QRCode-Generator
 [repo4]: https://github.com/gkrockz/Python-Scripts/tree/main/URL-Shortner
+[repo5]: https://github.com/gkrockz/Python-Scripts/tree/main/Automation

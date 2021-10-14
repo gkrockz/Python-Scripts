@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="image/icon.png" type="image/x-icon">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.3.0/web/hack.min.css" integrity="sha512-XgCw4Srl8lC1ECwcaHwAU0WnxQwHkqmInzg9wJLtGB7DRuMaXPuK2k9WJ2AwRDGdrgK9eJpZl2hUlLi2WQssmw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <h1 class="header">Password Generator</h1>
+    <div class="container">
+        <input type="text" id="result">
+        <button>
+            <i class="far fa-clipboard" title="Copy to clipboard" onclick="copyPassword()"></i>
+        </button>
+        <button>
+            <i class="fas fa-redo-alt" title="Regenerate Password" onclick="generatePass()"></i>
+        </button>
+        <input type="range" title="Password Length" min="8" max="20" value="8" id="length" oninput="generatePass()">
+        <h3 id="pass-length">8</h3>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,3 +1,3 @@
 ## Automation Scripts :
 
-> **In a fraction of second, rename multiple files using `rename_files.py`**  
+> **`rename_files.py`**: Rename multiple files, within a fraction of second.

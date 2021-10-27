@@ -1,7 +1,7 @@
 <h1 align="center">Python Scripts</h1> 
 
 <p align="center">
-<img src="image/icon.gif" width="10%" height="10%">
+<img src="image/icon.png" width="35%" height="35%">
 </p>
 
 **1. Digit Recognition :** [**`Repo`**][repo1]

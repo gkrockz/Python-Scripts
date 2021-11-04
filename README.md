@@ -16,21 +16,21 @@
 
 **6. PDF Processing:** [**`Repo`**][repo6]
 
-**7. Password Generator :** [**`Repo`**][repo7]
+**7. Password Generator:** [**`Repo`**][repo7]
 
-**8. QR-Code Generator :** [**`Repo`**][repo8]
+**8. QR-Code Generator:** [**`Repo`**][repo8]
 
-**9. URL Shortner   :**[**`Repo`**][repo9]
+**9. URL Shortner:** [**`Repo`**][repo9]
 
 
 
-[repo1]: https://github.com/gkrockz/Digit-Recognition
-[repo2]: https://github.com/gkrockz/Python-Scripts/tree/main/Automation
-[repo3]: https://github.com/gkrockz/password-checker
-[repo4]: https://github.com/gkrockz/news-scraper
-[repo5]: https://github.com/gkrockz/image-processing
-[repo6]: https://github.com/gkrockz/pdf-processing
-[repo7]: https://github.com/gkrockz/Python-Scripts/tree/main/Password-Generator
-[repo8]: https://github.com/gkrockz/Python-Scripts/tree/main/QRCode-Generator
-[repo9]: https://github.com/gkrockz/Python-Scripts/tree/main/URL-Shortner
+[repo1]: https://git.io/JP55M
+[repo2]: https://git.io/JP55y
+[repo3]: https://git.io/JP55j
+[repo4]: https://git.io/JP5dv
+[repo5]: https://git.io/JP5dk
+[repo6]: https://git.io/JP5dL
+[repo7]: https://git.io/JP5dt
+[repo8]: https://git.io/JP5dO
+[repo9]: https://git.io/JP5ds
 
